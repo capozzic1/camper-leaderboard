@@ -1,0 +1,58 @@
+#tablecon { 
+  margin: 0 auto;
+  width: 50%;
+  font-size: 120%;
+	
+}
+
+body { 
+background-color: grey;
+}
+
+
+.table td, th{ 
+padding: 10px;
+}
+
+.table th {
+padding-left: 20px;	
+
+}
+
+.table tr { 
+
+}
+
+.table tr:nth-child(odd){
+	background-color: #EEF0EE;
+	
+}
+
+.table tr:nth-child(even){
+	background-color: white;
+	
+}
+
+
+.table { 
+width: 100%;
+}
+
+.table tr a { 
+color: #006400;
+}
+
+
+
+.innercon h1 { 
+  background-color: #006400;
+  color: white;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.innercon { 
+
+width: 100%;
+}
